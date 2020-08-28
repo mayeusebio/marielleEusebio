@@ -21,7 +21,7 @@
 title: Marielle Eusebio
 email: mariellejde@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi! 
+ Hi! wha whats poppin
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://marielleeusebio.me" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: marielle-eusebio
@@ -31,6 +31,7 @@ github_username:  mayeusebio
 theme: minima
 plugins:
   - jekyll-feed
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
