@@ -9,10 +9,10 @@ permalink: /about/
 
 Hi! I'm Marielle Eusebio, a senior Electrical Engineering student at the University of California, Davis.
 
+I haven't yet decided what this page deserves to know about me yet, but we're working on it.
+
 {% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+print('In the meantime, me in my favourite blazer!')
 {% endhighlight %}
+
+
