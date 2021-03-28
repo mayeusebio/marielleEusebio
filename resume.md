@@ -4,8 +4,8 @@ title: Resume
 permalink: /resume/
 ---
 
-Last Updated: Aug 27 2020
+Last Updated: Mar 28 2021 
 
 [View PDF][resumeLink]
 
-[resumeLink]: https://drive.google.com/file/d/1VtkA8uEo3z7JM9As57wzRTtivQjq9cX3/view?usp=sharing
+[resumeLink]: https://drive.google.com/file/d/1K-CQfXt94JGCy4uXWZFUGBak2hGoZJxp/view?usp=sharing
