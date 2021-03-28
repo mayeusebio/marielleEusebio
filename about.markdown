@@ -10,6 +10,8 @@ Hi! I'm Marielle Eusebio, a senior Electrical Engineering student at the Univers
 
 Recently I've been exposed to a lot of different facets of electrical engineering such as robotics and embedded systems, some of which I'd like to share here. 
 
+boop
+
 I'm excited for what's to come on this site!
 
 **Last Updated:** Feb 16 2021
